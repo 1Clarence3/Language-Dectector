@@ -1,0 +1,1 @@
+A list of zero or more functions that are called to transform (pre-process) text before tokenizing. Those functions must take a string and return a string. Defaults to:
