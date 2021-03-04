@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea3273c2-9097-400d-841d-2f53ebb29e50" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W8smsnwz5tDoVZZiRKghdxyoMG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Detect Language" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="12-detect-language-lab" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Detect Language.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Detect Language" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea3273c2-9097-400d-841d-2f53ebb29e50" name="Default Changelist" comment="" />
+      <created>1578542718144</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578542718144</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="182" key="#Notifications" timestamp="1578819241387">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="182" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1578819241387" />
+    <state x="667" y="331" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578817028382">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="331" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1578817028382" />
+    <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578819572544">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578819572544" />
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1582205901295">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582205901295" />
+    <state x="686" y="216" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1581755526974" />
+    <state width="1515" height="103" key="GridCell.Tab.0.bottom" timestamp="1579071001411">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="103" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579071001411" />
+    <state width="1899" height="345" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579022703151" />
+    <state width="1515" height="103" key="GridCell.Tab.0.center" timestamp="1579071001411">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="103" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1579071001411" />
+    <state width="1899" height="345" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579022703151" />
+    <state width="1515" height="103" key="GridCell.Tab.0.left" timestamp="1579071001411">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="103" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1579071001411" />
+    <state width="1899" height="345" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579022703151" />
+    <state width="1515" height="103" key="GridCell.Tab.0.right" timestamp="1579071001411">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="103" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1579071001411" />
+    <state width="1899" height="345" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579022703151" />
+    <state width="1899" height="345" key="GridCell.Tab.1.bottom" timestamp="1579022703151">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1515" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578759528878" />
+    <state width="1899" height="345" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579022703151" />
+    <state width="1899" height="345" key="GridCell.Tab.1.center" timestamp="1579022703151">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1515" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1578759528878" />
+    <state width="1899" height="345" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579022703151" />
+    <state width="1899" height="345" key="GridCell.Tab.1.left" timestamp="1579022703151">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1515" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1578759528878" />
+    <state width="1899" height="345" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579022703151" />
+    <state width="1899" height="345" key="GridCell.Tab.1.right" timestamp="1579022703151">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1515" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1578759528878" />
+    <state width="1899" height="345" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579022703151" />
+    <state x="463" y="166" key="SettingsEditor" timestamp="1579017141567">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="166" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579017141567" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1579017225158">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579017225158" />
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1582205883917">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582205883917" />
+    <state x="596" y="301" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581755459840" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1578753229870">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1578753229870" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="letters" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
