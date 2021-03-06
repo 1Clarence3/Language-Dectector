@@ -11,7 +11,9 @@ speech, I used the imported gTTS module.
 
 IMPORTANT!: Please enter in at least 15 lines of text otherwise 
 the program might detect a language other than the language the 
-text was written in. Additionally, the bar graphs will be off scaled.
+text was written in. Additionally, please click "OK" after pasting in text 
+in order for the text to be saved into a text file to be read when
+you click "Detect language".
 
 The Pause button for "Text to Speech" currently won't pause, but 
 instead of will just start from the beginning of the text and start
